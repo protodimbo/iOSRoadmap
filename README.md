@@ -13,7 +13,7 @@ A list of knowledge that every iOS engineer should know
 This list will be helpful for everybody from newbies to experts
 
 # Computer science
-[Materials](Pages/Computer science/cs.md)
+[Materials](Pages/Computer\ science/cs.md)
 # Algorithms
 
 # Git
