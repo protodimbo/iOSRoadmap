@@ -1,5 +1,5 @@
 # iOS Roadmap
-![Cocoapods platforms](https://img.shields.io/cocoapods/p/AFNetworking)
+![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20osx-lightgrey)
 ![Language](https://img.shields.io/badge/Language-Swift-red)
 ![Bower](https://img.shields.io/bower/l/Bootstrap)
 
