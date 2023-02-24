@@ -15,13 +15,13 @@ This list will be helpful for everybody from newbies to experts
 # Computer science
 [Materials](Pages/Computer_science/cs.md)
 # Algorithms
-
+[Materials](Pages/Algorithms/algorithms.md)
 # Git
-
+[Materials](Pages/Git/git.md)
 # Swift
 [Materials](Pages/Swift/Swift.md)
 # Memory
-
+[Materials](Pages/Memory/memory.md)
 # Multithreading
 
 # UI
