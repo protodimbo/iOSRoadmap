@@ -1,4 +1,8 @@
 # iOS Roadmap
+![Cocoapods platforms](https://img.shields.io/cocoapods/p/AFNetworking)
+![Language](https://img.shields.io/badge/Language-Swift-red)
+![Bower](https://img.shields.io/bower/l/Bootstrap)
+
 A list of knowledge that every iOS engineer should know
 
 ![](cover.webp)
