@@ -10,3 +10,4 @@
 - [ ] [🇺🇸Hit test](https://khanlou.com/2018/09/hacking-hit-tests/)
 - [ ] [🇺🇸Responder chain](https://medium.nextlevelswift.com/understanding-responder-chain-in-uikit-with-examples-bb28264defc2)
 - [ ] [🇺🇸Memory leaks](https://stablekernel.com/article/how-to-prevent-memory-leaks-in-swift-closures/)
+- [ ] [🇺🇸Dependency injection](https://medium.com/its-tinkoff/di-in-ios-complete-guide-cd76a079d2d)
