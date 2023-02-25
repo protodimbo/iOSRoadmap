@@ -1,2 +1,2 @@
 ### Articles
-- [ ] [Fastlane](https://docs.fastlane.tools/)
+- [ ] [🇺🇸Fastlane](https://docs.fastlane.tools/)
