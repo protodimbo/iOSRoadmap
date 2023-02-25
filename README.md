@@ -32,23 +32,23 @@ This list will be helpful for everybody from newbies to experts
 # 👨🏼‍🔧 Multithreading
 [Materials](Pages/Multithreading/multithreading.md)
 # 👀 UI
-
+[Materials](Pages/UI/ui.md)
 # 🫠 Rendering
-
+[Materials](Pages/Rendering/rendering.md)
 # 🥵 Animations
 [Materials](Pages/Animations/animations.md)
 # 💾 Repositories and databases
-
+[Materials](Pages/Databases/db.md)
 # 🔐 Security and encryption
-
+[Materials](Pages/Security/security.md)
 # ✅ Tests
-
+[Materials](Pages/Tests/tests.md)
 # 🤖 Utils
-
+[Materials](Pages/Utils/utils.md)
 # 🍀 Design patterns
-
+[Materials](Pages/Design_patterns/designPatterns.md)
 # 🚀 CI
-
+[Materials](Pages/CI/ci.md)
 # 🔮 Extra
 [Materials](Pages/Extras/extra.md)
 # 🧸 SoftSkills
