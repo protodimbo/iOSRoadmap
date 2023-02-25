@@ -47,3 +47,4 @@ This list will be helpful for everybody from newbies to experts
 # Extra
 
 # SoftSkills
+[Materials](Pages/SoftSkills/softskills.md)
