@@ -12,6 +12,13 @@ A list of knowledge that every iOS engineer should know
 # 😎 Who is it for?
 This list will be helpful for everybody from newbies to experts
 
+# 🧐 I want to check the boxes
+1. Fork the repo
+2. Change checkbox from '[ ]' to '[x]' next to the finished topic
+    - [ ] before
+    - [x] after
+3. Commit and push
+
 # Computer science
 [Materials](Pages/Computer_science/cs.md)
 # Algorithms
@@ -23,13 +30,13 @@ This list will be helpful for everybody from newbies to experts
 # Memory
 [Materials](Pages/Memory/memory.md)
 # Multithreading
-
+[Materials](Pages/Multithreading/multithreading.md)
 # UI
 
 # Rendering
 
 # Animations
-
+[Materials](Pages/Animations/animations.md)
 # Repositories and databases
 
 # Security and encryption
@@ -40,11 +47,9 @@ This list will be helpful for everybody from newbies to experts
 
 # Design patterns
 
-# Design principles and clean code
-
 # CI
 
 # Extra
-
+[Materials](Pages/Extras/extra.md)
 # SoftSkills
 [Materials](Pages/SoftSkills/softskills.md)
