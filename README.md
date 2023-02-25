@@ -19,37 +19,37 @@ This list will be helpful for everybody from newbies to experts
     - [x] after
 3. Commit and push
 
-# Computer science
+# 👨🏻‍🔬 Computer science
 [Materials](Pages/Computer_science/cs.md)
-# Algorithms
+# 🦾 Algorithms
 [Materials](Pages/Algorithms/algorithms.md)
-# Git
+# 🔥 Git
 [Materials](Pages/Git/git.md)
-# Swift
+# 🏎 Swift
 [Materials](Pages/Swift/Swift.md)
-# Memory
+# 💿 Memory
 [Materials](Pages/Memory/memory.md)
-# Multithreading
+# 👨🏼‍🔧 Multithreading
 [Materials](Pages/Multithreading/multithreading.md)
-# UI
+# 👀 UI
 
-# Rendering
+# 🫠 Rendering
 
-# Animations
+# 🥵 Animations
 [Materials](Pages/Animations/animations.md)
-# Repositories and databases
+# 💾 Repositories and databases
 
-# Security and encryption
+# 🔐 Security and encryption
 
-# Tests
+# ✅ Tests
 
-# Utils
+# 🤖 Utils
 
-# Design patterns
+# 🍀 Design patterns
 
-# CI
+# 🚀 CI
 
-# Extra
+# 🔮 Extra
 [Materials](Pages/Extras/extra.md)
-# SoftSkills
+# 🧸 SoftSkills
 [Materials](Pages/SoftSkills/softskills.md)
