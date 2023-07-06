@@ -10,7 +10,7 @@ A list of knowledge that every iOS engineer should know
 ### If this project helped you or you enjoyed it, please give it a star ⭐ It will show me that I have helped someone at least 😅
 
 # 😎 Who is it for?
-This list will be helpful for everybody from newbies to experts
+The iOSRoadmap repository is a great resource for iOS developers who want to learn about the latest technologies and best practices. It covers a wide range of topics, from beginner to advanced.
 
 # 🧐 I want to check the boxes
 1. Fork the repo
@@ -25,8 +25,8 @@ This list will be helpful for everybody from newbies to experts
 [Materials](Pages/Algorithms/algorithms.md)
 # 🔥 Git
 [Materials](Pages/Git/git.md)
-# 🏎 Swift
-[Materials](Pages/Swift/Swift.md)
+# 🏎 iOS and Swift
+[Materials](Pages/iOSAndSwift/Swift.md)
 # 💿 Memory
 [Materials](Pages/Memory/memory.md)
 # 👨🏼‍🔧 Multithreading
@@ -45,8 +45,8 @@ This list will be helpful for everybody from newbies to experts
 [Materials](Pages/Tests/tests.md)
 # 🤖 Utils
 [Materials](Pages/Utils/utils.md)
-# 🍀 Design patterns
-[Materials](Pages/Design_patterns/designPatterns.md)
+# 🍀 Architecture and Design patterns
+[Materials](Pages/Architecture_and_Design_patterns/designPatterns.md)
 # 🚀 CI
 [Materials](Pages/CI/ci.md)
 # 🔮 Extra
